@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Front-End Developer from Iran
+I am a Front-end developer from Iran
 
 ### Expertise
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
